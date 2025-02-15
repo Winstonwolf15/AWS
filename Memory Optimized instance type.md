@@ -1,0 +1,1 @@
+**Memory-Optimized Instances** in **Amazon Web Services (AWS)** are a family of EC2 instance types designed for workloads that require high memory-to-CPU ratios. These instances are ideal for applications that need to process large datasets in memory, such as in-memory databases, real-time big data analytics, caching, and high-performance computing (HPC).
