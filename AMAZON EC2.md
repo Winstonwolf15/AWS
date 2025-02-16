@@ -3,3 +3,4 @@
 [[EC2 instance types]]
 [[Security groups]]
 [[SSH]]
+[[Using IAM roles for EC2 instance]]
