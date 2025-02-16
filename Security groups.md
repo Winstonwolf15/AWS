@@ -33,4 +33,4 @@ For outbound rules we see that by default for any security group, if the instanc
 
 A security group can be attached to multiple instances.
 Ann instance can have multiple security groups.
-To switch to another region you have to create new sg. If you create another [[vpc_]]  [[vpc.]]then also you have to create a new security group.
+To switch to another region you have to create new sg. If you create another [[vpc.]]then also you have to create a new security group.
