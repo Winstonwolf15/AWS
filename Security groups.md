@@ -33,4 +33,38 @@ For outbound rules we see that by default for any security group, if the instanc
 
 A security group can be attached to multiple instances.
 Ann instance can have multiple security groups.
-To switch to another region you have to create new sg. If you create another [[vpc.]]then also you have to create a new security group.
+To switch to another region you have to create new sg. If you create another [[vpc.]] then also you have to create a new security group.
+The SGs live outside the EC2, so if traffic is blocked the EC2 instance wont even see it.
+Its good to maintain one separate SG just for SSH access.
+
+![[Pasted image 20250216161034.png]]
+In the above diagram the EC2 instance authorizes inbound traffic from any ec2 instance that have sg1 or sg2 security groups. So as SG3 is not allowed, it cant access.
+
+![[Pasted image 20250216161646.png]]
+22 is for logging into the EC2 instance on linux
+21 ftp to share and upload files
+22 can also be for sftp, that is to share file using ssh
+80 for http to access unsecured websites
+443 for https to access secured websites
+3389 rdp login to windows instance
+
+To access the complete page of sg from the left side menu - network and security - security groups
+![[Pasted image 20250216163043.png]]
+
+![[Pasted image 20250216163104.png]]
+Here we see 2 security groups, a default one that is created by default and a launch-wizard-1 that we created when we created our EC2 instance
+
+![[Pasted image 20250216163326.png]]
+
+![[Pasted image 20250216163343.png]]
+ SGs have an id as seen above
+
+![[Pasted image 20250216163500.png]]
+For first sg, it is SSH port 22 from anywhere
+For second sg, it is HTTP from port 80 from anywhere
+![[Pasted image 20250216164204.png]]
+![[Pasted image 20250216164128.png]]
+[[CIDR]]
+
+
+

@@ -1,0 +1,1 @@
+**CIDR (Classless Inter-Domain Routing) blocks** are a method for allocating IP addresses and routing Internet Protocol packets. They are used to define a range of IP addresses in a network, making it easier to manage and allocate IPs efficiently.

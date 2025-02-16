@@ -2,3 +2,4 @@
 [[Creating first instance]]
 [[EC2 instance types]]
 [[Security groups]]
+[[SSH]]
