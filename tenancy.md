@@ -1,0 +1,1 @@
+Shared tenancy means that **multiple EC2 instances from different customers may reside on the same piece of physical hardware**.

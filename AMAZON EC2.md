@@ -4,3 +4,4 @@
 [[Security groups]]
 [[SSH]]
 [[Using IAM roles for EC2 instance]]
+[[EC2 purchasing options]]
