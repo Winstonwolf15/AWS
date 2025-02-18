@@ -2,7 +2,7 @@ Rules mentioned will override the imports
 
 - [ ] Boulder
     - [ ] [[Daily tasks (+1.5)]]- overlap
-    - [ ] [Morning](https://www.notion.so/Morning-13f55d111cb6808a9766e1456751ffff?pvs=21)with no time limit(1/0)
+    - [ ] [[Morning]] with no time limit(+1/0)
     - [ ] Prn - without greyscale for 10 min - optional - Not on Tuesday
     - [ ] Review next cycle - 10 min - overlap
     - [ ] RTO - overlap
