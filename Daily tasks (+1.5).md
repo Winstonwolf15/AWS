@@ -26,6 +26,9 @@ Bndi extends cutoff after call cut
 - [ ] Speed limit 55
     
     - [ ] Except when needing overtaking is mandatory to prevent collision - not applicable on vehicle pollution
-- [ ] Greyscale more than 10 min = days effort are not counted (exception hardcore 10 min+ softcore 20(with timer) + bndi vc and nuds + transition + weed motivation)
+
+
+
+Greyscale more than 10 min = days effort are not counted (exception hardcore 10 min+ softcore 20(with timer) + bndi vc and nuds + transition + weed motivation)
     
-- [ ] Maybe try to counter cb with meditation and long walk
+Maybe try to counter cb with meditation and long walk
