@@ -4,13 +4,13 @@
 **Read rules before starting**
 
 - [ ] Do within 3 hours after breakfast or Do within 4:30 hours after breakfast + lunch (**+1.5**)
-    - [ ] Apply online🏭 - for 15 mins - customized jd for every job
-    - [ ] Study - 45 mins👨‍🎓
+    - [ ] Apply online🏭 - for 20 mins - customized jd for every job
+    - [ ] Study - 1 hr👨‍🎓
     - [ ] Work - 1:30 hour - if given - Shalini meeting included - on weekend may be replace with study - pause on help
 - [ ] Lunch
 - [ ] Put braces after lunch
 - [ ] Do within 3:30 hrs after lunch (+1.5)
-    - [ ] Study - 45 min👨‍🎓
+    - [ ] Study - 1 hr👨‍🎓
     - [ ] Teacheron - 5 mins DSA - Budget is 500 per month
     - [ ] Meditation - 10/15 min🧘
         - [ ] 1 min extra with separate alarm
@@ -20,7 +20,7 @@
         - [ ] + 1 hour time for help(if asked)
     - [ ] Exercise🏋️ - 10 mins
         - [ ] Gym
-    - [ ] Resume work - 15 mins
+    - [ ] Resume work - 10 mins
         - [ ] Editing resume            
         - [ ] Job search help videos            
             [[Tips]]
@@ -29,3 +29,6 @@
         - [ ] (optional)Mandatory after first fight urge of massage
         - [ ] Non greyscale allowed if using insta
         - [ ] try not on Tuesday
+
+
+55 min

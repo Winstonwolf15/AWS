@@ -23,3 +23,6 @@ Bndi and meeting extends cutoff by duration after 11 pm for study exercise and o
 - [ ] Screen out by 2:30 - GUWTITDIEWA
     - [ ] 0.25 of done alone
 - [ ] Put eye mask and headphones in pillow unless wearing
+
+
+15 min

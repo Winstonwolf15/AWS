@@ -1,4 +1,3 @@
-# Morning
 
 (+1 pt.) (+0.5 pt. done within 3hrs)
 

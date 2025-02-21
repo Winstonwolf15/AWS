@@ -1,0 +1,1 @@
+If total travelling hours in one day is and will be greater than ( already travelled for 2 hours) 6 hours.

@@ -1,0 +1,29 @@
+[[Notes_CyclicTask]]
+- [ ] 4 hours on AWS Udemy E0 for competency content + notes (+5)
+- [ ] RTO 10+ hrs - (C.start - C. task close)x1/5 - round up if < 4 - else round down - CBDORD - Pause in Shimla
+	- [ ] done - 
+- [ ] Aadhar update
+- [ ] Raise ticket for c type charger
+- [ ] RTO for - (C.start - C. task close)x3/5 - round up if < 4 - else round down - CBDORD - Pause in Shimla
+	- [ ] done -
+- [ ] 30 minutes on naukri profile (+2)
+- [ ] Wipe laptop 2 mins
+- [ ] Update phone
+- [ ] Wash (+2)
+    - [ ] jeans
+    - [ ] pillow cover
+    - [ ] towel
+    - [ ] blanket
+- [ ] Citi Training (+1)
+    - [ ] If any assigned before this cycle
+- [ ] Clean bike for 5 minutes with clean cloth (+1)
+- [ ] 2x loving kindness meditation
+- [ ] Bua ke Jana for (C.start - C. task close)x2/7 round up if < 2 - else round down - CBDORD - Pause in Shimla (+2)
+	- [ ] done -
+- [ ] Grooming (+2)
+	- [ ] [[Grooming List]]
+	- [ ] Shampoo
+	- [ ] Pluck hair
+	- [x] Nail cut
+	- [ ] Trim
+	- [ ] Hair cut
