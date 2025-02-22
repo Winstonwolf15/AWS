@@ -16,12 +16,12 @@ Bndi extends cutoff after call cut
     - [ ] All 3 meetings(excluding conflicts)
     - [ ] Can leave evening meetings if no contribution for last half hour.
     - [ ] Daily + weekly todos
-- [ ] Screen out by 2:30 - GUWTITDIEWA    
+- [ ] Screen out by 2:15 - GUWTITDIEWA
     - [ ] 0.25 of done alone
 - [ ] Speed limit 55    
     - [ ] Except when needing overtaking is mandatory to prevent collision - not applicable on vehicle pollution
 
-
+50 min
 
 Greyscale more than 10 min = days effort are not counted (exception hardcore 10 min+ softcore 20(with timer) + bndi vc and nuds + transition + weed motivation)
     

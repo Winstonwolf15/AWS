@@ -13,12 +13,12 @@ _Greyscale timer 10 min total_
 - [ ] Do within first 105 mins at start of Bline
     - [ ] Wash clothes (if required)🫧        
     - [ ] Charge laptop(start) try 100% (on workday)        
-    - [ ] Charge phone(start) try 100%        
+    - [ ] Charge phone(start) try 100%       
     - [ ] Piss - Poop - Brush - Facewash🚹        
     - [ ] Plan study day and optional where to go🗒️        
         [[Study collection]]        
-        - [ ] AWS
-        
+        - [ ] Revision
+    
     - [ ] Etms if required        
     - [ ] Categorize last day spends in Jupiter        
     - [ ] Net worth daily        

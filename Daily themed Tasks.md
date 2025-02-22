@@ -1,1 +1,1 @@
-[[Total points]]
+[[🏆Total points]]

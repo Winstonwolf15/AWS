@@ -1,4 +1,4 @@
-+2000 sneha -1050 donation -2231 emi -4933 Ankit [ 3 credit cards, spliwise, udhari, jupiter, hdfc, donation, emi ]
++2000 sneha -1050 donation -2231 emi -4933 Ankit (3 credit cards, spliwise, udhari, jupiter, hdfc, donation, emi )
 
 02/01) 8,087.93( 10,087.93 actual)
 
@@ -7,3 +7,6 @@
 153.66+22,848.27−4,400−2,300−4,933−2,231−1,050−531+62.01
 
 02/04) 7,493( 9,493 actual) - 28.66+22,848.27−4,400−2,300−4,933−2,231−531.94+62.01
+
+02/22) -20,646.67 (-18,646.67) 
+

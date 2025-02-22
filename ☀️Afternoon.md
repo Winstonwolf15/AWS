@@ -22,7 +22,7 @@
         - [ ] Gym
     - [ ] Resume work - 10 mins
         - [ ] Editing resume            
-        - [ ] Job search help videos            
+        - [ ] Job search help videos           
             [[Tips]]
         - [ ] Resume assist videos            
     - [ ] Dab dab

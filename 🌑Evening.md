@@ -20,7 +20,7 @@ Bndi and meeting extends cutoff by duration after 11 pm for study exercise and o
     - [ ] After 12 am
 - [ ] No office work
     - [ ] After 12 am - 10 minutes exception (only emergency , below two become irrelevant then)
-- [ ] Screen out by 2:30 - GUWTITDIEWA
+- [ ] Screen out by 2:14 - GUWTITDIEWA
     - [ ] 0.25 of done alone
 - [ ] Put eye mask and headphones in pillow unless wearing
 
