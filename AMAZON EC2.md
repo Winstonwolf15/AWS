@@ -5,3 +5,5 @@
 [[SSH]]
 [[Using IAM roles for EC2 instance]]
 [[EC2 purchasing options]]
+[[Shared responsibility model for EC2]]
+[[EC2 quiz]]

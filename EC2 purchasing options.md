@@ -30,6 +30,8 @@ But you can lose at any point in time. This happens because initially you are as
 They are the most cost efficient instances in AWS.
 They are helpful is your workload is resilient to failure.
 
+Write rest from asset
+
 
  
 
