@@ -55,3 +55,6 @@ So in dedicated instance you have no control over instance placement.
 ![[Pasted image 20250321023238.png]]
 This ensures that you have guaranteed compute capacity in a specific AZs when needed.
 Reserve, on demand instance 
+
+
+![[Pasted image 20250321024816.png]]
