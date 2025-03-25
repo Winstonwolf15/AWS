@@ -2,4 +2,5 @@
 [[EBS multi-attach]]
 [[EBS hands-on]]
 [[EBS Snapshots]]
-
+[[AMI overview]]
+[[EC2 image builder overview]]
