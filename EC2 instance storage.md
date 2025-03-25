@@ -7,4 +7,6 @@
 [[EC2 instance store]]
 [[EFS Overview]]
 [[Shared responsibility model for EC2 instance store]]
-
+[[Amazon FSx overview]]
+[[Summary for EC2 instance store]]
+[[Quiz of EC2 instance storage]]
