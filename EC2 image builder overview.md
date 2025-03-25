@@ -9,4 +9,11 @@ EC2 image builder automates the entire process.
 ### Why do we need to automate the running of EC2 image builder?
 Many companies need their EC2 instances to always run on secure, updated and standardized images. Automating EC2 image builder ensures this: security updates and patching, software config and updates, compliance and governance, performance improvements.
 
-### Why is it an original service ? Chatgpt
+### Why is it an original service ? 
+It means a service that was initially designed and introduced for a specific purpose.
+
+#### How this works:
+1) When image builder runs, it is going to create an EC2 instance called builder EC2 instance, this is going to build components and customize the software for ex, install java, install firewall, updates
+2) After this an AMI is going to be created from this EC2 instance.
+3) After this EC2-IB will create a test EC2 instance from that AMI and is going to run few tests defined by you. This can be skipped too. The test can be like - is AMI working, is it secure, is the app working correctly
+4) After this the AMI is going to be distributed if you want to
