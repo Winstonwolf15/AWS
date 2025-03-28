@@ -14,3 +14,17 @@ Out of scope - 7 layers of OSI model -
 5) Sessions layer - the mailbox - opens and closes communication between computers - keeps the chat open.
 6) Presentation layer - If one speaks Chinese and the other speaks English, this layer translates them - formally it converts your texts into format internet understands.
 7) Application layer - you - this is the layer you actually see - like websites, WhatsApp.
+
+### ALB vs NLB vs GWLB:
+![[Pasted image 20250328144441.png]]
+
+- ALB - Architecture is very simple - users access your load balancers on one of these protocols - HTTP/HTTPS/gRPC - and then load balancers route traffic to one of the downstream EC2 instances or any other target specified by you.
+- NLB 
+	- gives Static IP not Static URL as ALB
+	- It gives static IP through the use of  elastic IP, which are IP that you own and can move around - Unlike public IP which changes when you restart an instance, elastic IP remains same unless you manually release it.
+	- The architecture is same as ALB, the traffic is being sent to the NLB on the TCP and UDP protocol and then forwarded to downstream targets.
+
+- GLB 
+	- Its use case is to direct traffic to firewalls that you manage on the EC2 instance, so you can do classic firewall or intrusion detection (detects intrusion, looks for attack patterns) or deep packet inspection (inspects the packet contents not just the headers, can filter contents)
+	- Architecture is a little more complicated. It doesn't balance the load of your app, it actually balances the load to virtual appliances that run on EC2 instance so you can analyze the traffic. That's why its called 3rd party security virtual appliances.
+	- So the traffic first goes to the gateway load balancer, then it sends traffic to these EC2 instances that will then analyze the traffic. The traffic will then be sent back to the gateway load balancer and then forwarded back to the applications.
