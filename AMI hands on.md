@@ -16,3 +16,9 @@ So the AMI is registered.
 
 ![[Pasted image 20250328224258.png]]
 
+Now you can launch instances from this AMI
+1. You can launch by clicking on launch instances from AMI (above pic)
+2. Or you can click on Instances tab -> Launch instances -> in the quick start
+3. ![[Pasted image 20250401005358.png]]
+4. Select your AMI - (Demo image is the AMI you just created) -> Now follow the same steps
+5. For user data copy just the last line that shows the http URL. You don't need the earlier lines (installing HTTP etc.) because AMI you created this from already contains http user data, so reinstalling HTTP is not required. **This will speed up boot time**
