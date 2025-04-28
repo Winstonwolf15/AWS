@@ -4,3 +4,4 @@ Syllabus for Wings 1
 [[AMAZON EC2]]
 [[EC2 instance storage]]
 [[Elastic load balancing and auto scaling groups]]
+[[Other compute section]]
