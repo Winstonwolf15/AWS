@@ -3,7 +3,7 @@
 2) EBS stands for elastic block store. It is a network drive that you can attach to your instance while they run, as they are network drive, they can be attached or detached to another EC2 instance very quickly.
 3) One EBS volume can be mounted to only one EC2 instance at the CCP level (exam). Otherwise 16 max.
 4) An EC2 instance can have multiple EBS volume attached, like two network USB sticks in one machine.
-5) Like EC2 instances, these are also bound to one AZ. EBS in us East 1 can be attached to EC2 instance in us East 2.
+5) Like EC2 instances, these are also bound to one AZ. EBS in us East 1 canT be attached to EC2 instance in us East 2.
 
 ![[Pasted image 20250325000543.png]]
 - You have to provision capacity in advance, (specify GBs and IOPs so you're are basically defining how you want your EBS volume to perform) - you get billed for the provisioned capacity.
