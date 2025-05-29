@@ -32,7 +32,7 @@ For outbound rules we see that by default for any security group, if the instanc
 ![[Pasted image 20250216122845.png]]
 
 A security group can be attached to multiple instances.
-Ann instance can have multiple security groups.
+An instance can have multiple security groups.
 To switch to another region you have to create new sg. If you create another [[vpc.]] then also you have to create a new security group.
 The SGs live outside the EC2, so if traffic is blocked the EC2 instance wont even see it.
 Its good to maintain one separate SG just for SSH access.

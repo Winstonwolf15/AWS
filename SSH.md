@@ -25,7 +25,7 @@ CTRL + D - to close
 
 
 EC2 instance connect is the easiest way
-Is it browser based and no extra work is required, even the private key is not shown, eveything in backend
+Is it browser based and no extra work is required, even the private key is not shown, everything in backend
 
 ![[Pasted image 20250216171947.png]]
 

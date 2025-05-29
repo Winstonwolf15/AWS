@@ -5,7 +5,7 @@ EC2 stands for elastic compute cloud, it is IAAS![[Pasted image 20250215151423.p
 
 EC2 sizing and configuration options:
 OS : Linus, Windows and Mac
-[[AI answer for different storage options|Storage can be network attached or hardware.]]
+[[AI answer for different storage options|Storage can be networ k attached or hardware.]]
 Here this means that storage can be attached over network to the host machine, rather than being directly attached to the physical server hosting the machine, example EBS (Elastic block storage) and EFS (Elastic file system)
 EC2 user data or bootstrap script => this is to configure data at first launch.
 
